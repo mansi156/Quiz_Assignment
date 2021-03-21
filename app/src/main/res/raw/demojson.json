@@ -1,0 +1,126 @@
+{
+  "data": [
+    {
+      "id": 2416,
+      "created_at": "2021-03-16T07:47:16.262548Z",
+      "updated_at": "2021-03-16T11:34:42.296417Z",
+      "text": "<p><strong>Testing Question</strong></p>",
+      "explanation": null,
+      "time_limit": null,
+      "marks": 1,
+      "coginitive_level": "Medium",
+      "question_type": "Essay",
+      "tf_iscorrect": null,
+      "creator": 183,
+      "quiz": 671,
+      "essay_word_limit": null,
+      "blankvalue_set": [
+        
+      ],
+      "file": null,
+      "mcqoption_set": null
+    },
+    {
+      "id": 2406,
+      "created_at": "2021-03-05T07:13:13.063542Z",
+      "updated_at": "2021-03-16T11:35:30.707111Z",
+      "text": "<p>dsfds edit</p>",
+      "explanation": null,
+      "time_limit": null,
+      "marks": 22,
+      "coginitive_level": "Medium",
+      "question_type": "FileUpload",
+      "tf_iscorrect": null,
+      "creator": 183,
+      "quiz": 671,
+      "essay_word_limit": null,
+      "blankvalue_set": [
+        
+      ],
+      "file": null,
+      "mcqoption_set": null
+    },
+    {
+      "id": 2407,
+      "created_at": "2021-03-05T07:13:47.344409Z",
+      "updated_at": "2021-03-16T11:27:50.078785Z",
+      "text": "<p>Test Here</p>",
+      "explanation": null,
+      "time_limit": null,
+      "marks": 15,
+      "coginitive_level": "Medium",
+      "question_type": "Essay",
+      "tf_iscorrect": null,
+      "creator": 183,
+      "quiz": 671,
+      "essay_word_limit": null,
+      "blankvalue_set": [
+        
+      ],
+      "file": null,
+      "mcqoption_set": null
+    },
+    {
+      "id": 2411,
+      "created_at": "2021-03-11T05:49:14.863215Z",
+      "updated_at": "2021-03-16T11:31:11.146771Z",
+      "text": "<p><strong>Testing Question 2</strong></p>",
+      "explanation": null,
+      "time_limit": null,
+      "marks": 1,
+      "coginitive_level": "Medium",
+      "question_type": "Essay",
+      "tf_iscorrect": null,
+      "creator": 183,
+      "quiz": 671,
+      "essay_word_limit": null,
+      "blankvalue_set": [
+        
+      ],
+      "file": null,
+      "mcqoption_set": null
+    },
+    {
+      "id": 2417,
+      "created_at": "2021-03-17T06:55:53.212944Z",
+      "updated_at": "2021-03-17T06:55:53.213015Z",
+      "text": "Test",
+      "explanation": null,
+      "time_limit": null,
+      "marks": 2,
+      "coginitive_level": "Medium",
+      "question_type": "MCQ",
+      "tf_iscorrect": null,
+      "creator": 183,
+      "quiz": 671,
+      "essay_word_limit": null,
+      "blankvalue_set": [
+        
+      ],
+      "file": null,
+      "mcqoption_set": [
+        {
+          "id": 6209,
+          "value": "4",
+          "is_correct": false
+        },
+        {
+          "id": 6206,
+          "value": "1",
+          "is_correct": true
+        },
+        {
+          "id": 6208,
+          "value": "3",
+          "is_correct": false
+        },
+        {
+          "id": 6207,
+          "value": "2",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "array_count": 5
+}

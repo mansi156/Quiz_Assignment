@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="let_s_start_the_game">Let\'s Start the Game</string>
+    <string name="start">Start</string>
+    <string name="quiz">Quiz</string>
+    <string name="question_mcq">Question MCQ</string>
+    <string name="thanks_for_participation_in_quiz">Thanks for participation in quiz</string>
+    <string name="finish">FINISH</string>
+</resources>

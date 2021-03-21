@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="let_s_start_the_game">Let\'s Start the Game</string>
+    <string name="start">Start</string>
+    <string name="quiz">Quiz</string>
+    <string name="question_mcq">Question MCQ</string>
+    <string name="_00_00">00:00</string>
+    <string name="next_question">Next Question</string>
+    <string name="upload_file">Upload File</string>
+    <string name="thanks_for_participation_in_quiz">Thanks for participation in quiz</string>
+    <string name="finish">FINISH</string>
+</resources>
